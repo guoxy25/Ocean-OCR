@@ -1,7 +1,7 @@
 <h2 align="center">Ocean-OCR</a></h2>
 
 <p align="center">
-<img src="benchmarks.png" style="width: 1000px" align=center>
+<img src="benchmarks.png" style="width: 700px" align=center>
 </p>
 
 
