@@ -1,0 +1,3382 @@
+[
+    {
+        "image": "IMG_1933.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft | 微软中国研发集团 奠基 微软中国研发集团总部大楼 二00八年五月六日"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0541.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "电话间 Phone Booth 14306"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0608.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "国机集团"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0709.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "巴比伦宾馆 订房电话 62550088 achet 药店 achet"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1581.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "CHIP 新电脑 May, 2010"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0812.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "津乐汇百货 La Vita 步行街 Pedestrian Street 家乐福 Carrefour 大食代 Food Republic 自动扶梯 Escalator"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1732.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Vbicomp 2011"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0653.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Standard Chartered"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0505.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "One Card. One Entry."
+            }
+        ]
+    },
+    {
+        "image": "IMG_1683.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "诸藏间 13184 Storage"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2165.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "餐厅自助查询服务 餐厅自助查询服务"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1562.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Research http://research.microsoft.com/"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1992.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "D2"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2088.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "HAWORTH"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1652.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "消火栓 FIRE HYDRANT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0723.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "彩和坊路 CAIHEFANG Rd （丹棱街）"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1576.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "就绪 数据 注意"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1864.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Changhu Wang April 21, 2011"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0686.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "新中关 购物中心 CITYMALL"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1593.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Enabling Tech IPV6 Maturity of wireless sensor networks Magnetic induction Ubiquity of smartphones"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1592.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "http://msra Microsoft Confidential"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2100.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Haier"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2030.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "bookbuilding"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1570.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "61193436916618831 040700013 贝发订书针"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0840.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "STACCATO"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0763.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "芙蓉路 -1-"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0759.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "RANGE ROVER LAND ROVER"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0456.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "文印室 Printing Room"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0652.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "新东方教育科技集团 NEW ORIENTAL EDUCATION&TECHNOLOGY GROUP"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0831.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "小心碰手 Mind Your Hand"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2080.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "METALONLY 金属类"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0864.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "sport city 名店运动城 中关村购物广场B2 E区"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1596.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Office Division 微软Office商务软件部"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1824.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "步行街停车场 P ENTRANCE 入口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0917.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "佰草集 HERBORIST C279 本店 欢迎使用 佰草 HERBOR"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0846.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "北京市公安局消防局 提高防火意识 确保奥运安全 火警电话: 119 中国驰名商标 鱼泉榨菜 重庆市鱼泉榨菜（集团）有限公司 电话:(023)58960033 传真 58962773"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2010.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "入口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1671.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "非授权请勿入内 Authorized Personnel Only Microsoft Real Estate and"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1714.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "机房 IDF 14158"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0183.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Multi function phone"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0461.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "屠卓文 Zhuowen Tu 14173"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2013.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "风行"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1991.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "HDLX0040"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0739.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "hzbank 杭州银行 BANK OF HANGZHOU"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1598.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "会议中 InUse 会议室 Conference Room 14458"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0602.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "地下停车场 UNDERGROUND PARKING 乐活天地 Lohas lifestyle 剩余车位"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0907.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "sale"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0830.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ONLY"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2029.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "走西口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1561.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Li Chunguang VR 14159"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1867.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Employee Referral Program 推荐友人， 分享快乐"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1954.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Viva 维亚大厦"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2093.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "pictures"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0680.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "丹棱街 DANLING JIE 西"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1572.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "请节约纸张 Please save paper 请使用回收纸 Please reuse single sided print paper."
+            }
+        ]
+    },
+    {
+        "image": "IMG_0457.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "会议室 Conference Room 14458 可使用 Available"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1595.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "2011 MSRA & STC Table Tennis Championship"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0855.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Play Ground of Missk"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1756.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "不可回收垃圾 NOT-RECYCLABLE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1955.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中国航天"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1916.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "BUILDING INTELLIGENT SOLUTIONS"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1811.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "京F·L3276"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2257.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "广告招商 4000 10 4008 北京天象世纪园際康告有限公司 www.86ad.com"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1936.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "有害物"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0064.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Research 微软亚洲研究院"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2102.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "必应bing"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1764.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中国邮政 CHINA POST"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0903.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "洗手间 Toilets"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1688.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bill Lund VR 13472"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0792.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "北京最惠快运 热烈庆祝北京最惠4月1日开通塘沽 任丘 霸州"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0030.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "静思"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1922.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Emergency exit 安全出口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0155.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "水表间 WaterMeterRoom"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2018.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "PRESS HOTEL"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1808.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中科软商务楼 交通银行 BANK OF COMMUNICATIONS"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0059.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sept.13-17, Zhangjiajie 张家界 MSRA FY12 KICKOFF"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1943.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "出口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1705.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "James Landay-VR 14175"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2011.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "lenovo 联想手机"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0702.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "注意 交通安全"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0912.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "我们提供最全面的关爱给每只宠物、每位家长！ All you need for the life of your pet"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1625.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "SARGENT ASSA ABLOY"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0793.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0886.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Place by paclantic"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2160.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "盖浇饭 Topping Rice"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1614.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "13AL1-2WL6 CLIPSAL"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2082.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Green 绿茶"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2049.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "鄂尔多斯 ERDOS"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0887.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "AMARANTINE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0810.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "禁止吸烟 NO SMOKING GWZX-045"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1920.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "FIRE 14F"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1986.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "六合人家"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0697.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海淀南路 HAIDIAN South Rd 西 W"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1615.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "注意 卷门运行时，禁止通行"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2008.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "公用电话 服务监督电话: 10010 编号: 312596"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0918.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "BreadTalk"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0833.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Schindler"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0714.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "地铁苏州街站 200m SUZHOUJIE Station 10 号线 Line 10"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1699.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "姚聪 Cong Yao 14313"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0595.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "P 入口 Entrance 停车场空闲车位 Empty Parking Spaces B1 010 B2 019 B3 134 B4 078"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0081.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "P 车库入口 Parking"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1771.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中国科学院北京分院"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0787.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中关村西区"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0742.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "籍海楼"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1667.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Research CORE6 Project Summary Booklet"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0486.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Goodbye Sigma -by PR & UR"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1971.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "JGJ"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1757.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "紫金 ZIJIN 数码园 SHUMAYUAN 3"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2078.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "PAPER ONLY 纸张类"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2041.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "有电危险"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1905.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "会议中 In Use"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0893.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "TR/BECA TRBECA TR"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1772.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "北京市自来水公司 闸"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0620.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "27 安全通道，请勿停留。 EMERGENCY EXIT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2205.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "NOKIA"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0545.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ASI Systems O/R MODE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2040.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "开门 Open the Door"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1571.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "本传真机号码（FaxNumber）：8610-82868526 HP LaserJet M1319f MFP 缩小/放大"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0829.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy&peace 真 美 诗"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0716.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "玛林娜餐厅"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2031.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "金凤成祥 cafe Bakery"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0445.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "弱电配电室 ELV Room 14933 非授权请勿入内 Authorized Personnel Only"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2163.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "酱油 Soy Sauce"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0758.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "北四环西路 入口 ENTRANCE 4m 含三轮摩托车 6:00-23:00 轮式机械，全挂拖斗车，以及 设计时速低于70km/h的机动 车（养护作业车辆除外），禁止 通行 公安局制"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0656.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "恒生银行 公用电话 Public Telephone China unicom 中国联通 9155"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0849.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "CITIZEN R 即将开幕"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1941.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "新日 WWW.XINRI.COM"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2112.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "请走北门进入 Please Go To The North"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0605.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "P 收费停车场 编号：海1091 白天（7:00---21:00） 小型车：1.5元/15分钟 大型车：3元/15分钟 夜间（21:00---7:00） 小型车：6元／2小时 大型车：12元／2小时 服务单位监督电话：68983508 行业主管部门电话：88487223 价格举报电话：12358"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1825.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Carrefour"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1621.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "legrand"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2061.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "2000名住户 5000名微软人"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0892.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "T100 亲子童装 FASHION FOR FAMILY"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1960.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "7:00-21:00"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1701.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "063"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1723.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Nova BALLPOINT PEN BP434"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0504.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Global Security Watch for the new card reader stickers. For more information about how to keep our peoplebuildings and data safe,please visit http://security Protection. Technology. Value."
+            }
+        ]
+    },
+    {
+        "image": "IMG_0839.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "HONGKEE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1654.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Hunter Douglas"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1949.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "燃气危险"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1865.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "play hard, work harder"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0809.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "灭火器 消防栓 消防器材 严禁堵塞、占用 非紧急情况勿动！ 消火栓 FIRE HYDRANT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2074.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Direct your questions to: MSERP"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0577.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "演示厅 Specialty DEMO Room 14366"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0916.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "GARFIELD"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1724.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "BEIFA"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2096.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Canbo"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1964.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "图像采集区域 Video"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1768.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "车技差 脾气大"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0781.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "公共汽车站 Bus Station 餐饮 Restaurant 步行街 Walking Street 卫生间 Toilet"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0687.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "7:00-9:00 16:00-19:00"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1770.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "自来水集团禹通"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0172.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "西方学术经典文库 查拉图斯特拉如是说 THUS SPAKE ZARATHUSTRA [德]弗里德里希·威廉·尼采 著 （一）"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1783.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "094-034"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0722.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海淀中街 HAIDIAN Middle St （海淀南路） 中信建投证券"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0495.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "请您及时食用存放在冰箱中的食物，阿姨将定期查看冰箱卫生，并清理变质食物。 微软房地产及设施管理部 Please do not store your food in the fridge too long Ayi will dispose the rotten food away MS RE&F Team 美菱Meiling"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2127.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "So.Fresh"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1983.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "河道水深危险 请您注意安全"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1586.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Chrysanthemum 菊花"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0814.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "094 请勿堆放物品 防火卷帘门下"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1657.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "14349 路斌 Bin Lu"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2126.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "和路雪 R"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2062.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "FORLAND"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2124.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "享受美好的一天！"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1569.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "益而高 R NO.207R 益而高 R NO.207R"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0861.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "phiten shop C301"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1725.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "42T5120"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0910.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "大酬宾 奥美特 婴儿床 店铺：儿童区C373 电话：13520350210"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1760.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "科技触动未来"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2103.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Romanticism Art life"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0156.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "0701"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1672.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "1 2 3 4 5"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0896.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "DisNEp MICKEY MOUSE FRIENDS"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0530.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "power supply"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1563.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "文具领取处 Stationery storage place 文具领取处 Stationery storage place"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2046.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "7magic"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0848.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Five Plus"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2025.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "watsons your personal store"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1806.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "北京银行 BANK OF BEIJING"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1564.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "MS_110"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0818.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "HENKI DESSERT 恒記甜品"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2199.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "DAZZLE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1719.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Steno Notes"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2035.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中國書店"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1791.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "JINBEI"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0635.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中钢国际广场"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2208.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "promod"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2222.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Gabiline 加宝莱"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1766.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "IVECO 京P·17Q97"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1753.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "践踏会使 青草枯菱"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1778.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "出租 楼房单间 15311627060"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0690.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "麻辣诱惑 spice spirit 1 D0"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2099.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "FIRST AID KIT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0858.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "La Chapelle"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0496.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "统一奶茶 Milk Tea"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1966.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "西北口 North-West Entrance"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2174.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "纸巾盒"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2106.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "14 10 15"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0080.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ABC 中国农业银行"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2085.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Microsoft Research"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2095.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "再沸 REBOIL"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0511.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "SAMSUNG"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1558.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Hardware Lab More Demos"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2069.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "小豆面馆 XIAODOU NOODLES"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1823.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ICBC 中国工商银行"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1721.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ThinkPad"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0899.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "rbt 仙踪林"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1550.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "DC 439"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0807.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Joyard"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0700.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海淀医院 地铁便利 REN JOY"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0612.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Potevio 中国普天"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1544.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "安全出口 EXIT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1937.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "消火栓"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0827.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "JACKEJONES"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0603.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "车库出入口禁止停车"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0711.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "引领沐浴文化新模式，打造沐浴概念新典范一 全新海鲜美食，尽在东方凯德华！"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1557.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Visit our blog http://designteam/ HCI Group"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0468.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "享受美好的一天 -Sainan Han April 22,2011"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2090.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "敦煌莫高文物拍摄有了 创造未来的模样 Kinect的软实力 当技术邂逅艺术"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2224.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "VERO MODA"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0482.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Simplex"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1786.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "鑫星搬运 TEL:62531238 厢式货车"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1802.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "KLQ6118Q"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1977.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "邮政信筒 本埠 外埠"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0794.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海淀中街"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2097.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Galanz"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2172.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "DISINFECT"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1709.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "MS"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1674.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Staircase 3"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0611.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "购物中心 紧急出口"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1685.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "I might be hiding in 13462 (focus room)"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1953.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "高压危险 请勿靠近 变压器室"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0884.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "NIKEFREE NIKE.COM.CN/FREE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1832.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "15 14"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2034.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "RAM 1500"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1785.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "三人行必有我师"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0888.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ToonsLand"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1826.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "FORTUNE CENTRE"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0616.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中国在腾飞 你在哪里？ 让华尔街英语 成就你！"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0678.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "ECMALL 欧美汇 WELCOME TO EC"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0158.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Canon"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2060.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "OKI Open up your dreams 打印真品质"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1923.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1543.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "请随手关门 KEEP DOOR CLOSED"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0625.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "我在生长 请不要踩我"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2113.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "停止按钮"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2076.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "recycle 回收"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0592.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "东 善缘街 SHANYUANJIE 西"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2044.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "雪芹书画社"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1939.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "秋实"
+            }
+        ]
+    },
+    {
+        "image": "IMG_2130.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "营业时间 9:00am-6:00pm"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1904.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "Phone Booth Work Stations"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1582.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "纯净水"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1814.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "MINI"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0859.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "CAUTION 小心地滑"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0836.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "food republic 大食代 美食广场"
+            }
+        ]
+    },
+    {
+        "image": "IMG_1809.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "交通银行"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0694.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海淀剧院 HAIDIAN THEATER"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0660.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "中国机械工业集团公司"
+            }
+        ]
+    },
+    {
+        "image": "IMG_0670.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR this image:"
+            },
+            {
+                "from": "gpt",
+                "value": "海01 386"
+            }
+        ]
+    }
+]
