@@ -11,23 +11,28 @@ Multimodal large language models (MLLMs) have shown impressive capabilities acro
 ## OCR practical scenarios
 
 (1) Document Extraction
+
 English Document:
 ```
 python eval_internvl2_5.py --checkpoint_path your_checkpoint_path --eval_type document_en
 ```
+
 Chinese Document:
 ```
 python eval_internvl2_5.py --checkpoint_path your_checkpoint_path --eval_type document_zh
 ```
+
 (2) Scene Text Recognition
 ```
 python eval_internvl2_5.py --checkpoint_path your_checkpoint_path --eval_type scene_text_rec
 ```
 (3) Handwritten Recognition
+
 Handwritten in English:
 ```
 python eval_internvl2_5.py --checkpoint_path your_checkpoint_path --eval_type handwritten_en
 ```
+
 Handwritten in Chinese:
 ```
 python eval_internvl2_5.py --checkpoint_path your_checkpoint_path --eval_type handwritten_zh
