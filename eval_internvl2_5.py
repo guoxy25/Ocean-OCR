@@ -1,7 +1,6 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from argparse import ArgumentParser
 import torch
-torch.cuda.set_device(1)
 import json
 import tqdm
 import glob
