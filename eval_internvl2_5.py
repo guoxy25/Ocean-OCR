@@ -22,10 +22,17 @@ import jieba
 from nltk.translate import meteor_score
 
 
-DEFAULT_CKPT_PATH = '/data_train/code/mllm/guohongyu/lyd_mmtrain/useful_tools/fox_benchmark/infer_code/InternVL2_5-4B'
-
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
 IMAGENET_STD = (0.229, 0.224, 0.225)
+
+
+def _get_args():
+    parser = ArgumentParser()
+    parser.add_argument("-c", "--checkpoint-path", type=str, 
+                        help="Checkpoint name or path, default to %(default)r")
+    parser.add_argument("--eval-type", type=str, default='document_zh')
+    args = parser.parse_args()
+    return args
 
 def build_transform(input_size):
     MEAN, STD = IMAGENET_MEAN, IMAGENET_STD
@@ -99,13 +106,6 @@ def load_image(image_file, input_size=448, max_num=12):
     return pixel_values
 
 
-def _get_args():
-    parser = ArgumentParser()
-    parser.add_argument("-c", "--checkpoint-path", type=str, default=DEFAULT_CKPT_PATH,
-                        help="Checkpoint name or path, default to %(default)r")
-    parser.add_argument("--eval-type", type=str, default='document_zh')
-    args = parser.parse_args()
-    return args
 
 def load_model_tokenizer(args):
     tokenizer = AutoTokenizer.from_pretrained(args.checkpoint_path, trust_remote_code=True, use_fast=False)
