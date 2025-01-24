@@ -22,9 +22,6 @@ import jieba
 from nltk.translate import meteor_score
 
 
-DEFAULT_CKPT_PATH = '/checkpoint_load/ocr3b-1204-openve-ift-om10-sc-bench/cs_ocr3b_ift_1204_ckpt_epoch_1_12030256_sft_1204_zt02_ocr3b_omini10_superclue_bench_openve_ift/checkpoint-8877'
-
-
 def _get_args():
     parser = ArgumentParser()
     parser.add_argument("-c", "--checkpoint-path", type=str, default=DEFAULT_CKPT_PATH,
