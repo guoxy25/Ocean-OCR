@@ -42,3 +42,16 @@ Handwritten in Chinese:
 ```
 python eval.py --checkpoint_path ocean_ocr_checkpoint_path --eval_type handwritten_zh
 ```
+
+## 引用
+
+如果您觉得我们模型/代码/论文有帮助，请给我们 ⭐ 和 引用 📝，感谢！
+
+```bib
+@article{chen2025ocean,
+  title={Ocean-OCR: Towards General OCR Application via a Vision-Language Model},
+  author={Chen, Song and Guo, Xinyu and Li, Yadong and Zhang, Tao and Lin, Mingan and Kuang, Dongdong and Zhang, Youwei and Ming, Lingfeng and Zhang, Fengyu and Wang, Yuran and others},
+  journal={arXiv preprint arXiv:2501.15558},
+  year={2025}
+}
+```
